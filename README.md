@@ -10,7 +10,7 @@ Gregorian Calendar Reversal and Opposition
 <p>
   Basic usage is as follows:
 </p>
-  ```
+  ```php
   /* $calendar can be either 'dnarcale' (the opposite calendar) or 'radnelac' (the reversed calendar) */
   $calendar = 'dnarcale';
   
