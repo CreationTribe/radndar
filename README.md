@@ -1,5 +1,5 @@
 # radndar
-##Gregorian Calendar Reversal and Opposition##
+## Gregorian Calendar Reversal and Opposition
 
 I wanted to be able to celebrate Opposite Day (January 25th) in the most opposite way possible. So - as obsessive nerds like myself do - I whipped up a quick script to flip the year. After completion, I realized it wasn't as opposite as I wanted it - it was just reversed (ie: New Years Eve is on New Year's Day, New Year's Day is on New Year's Eve, Christmas is only a week after Christmas, Independence Day is only 4 days before itself, etc. etc. etc.) - so while opting to keep this option, and cleverly naming it, "RADNELAC", I ventured forth and tweaked the script to conform to a more opposite-like nature. Now, I am pleased to announce both the RADNELAC and the N-Darcale (another clever naming feat in the shadow of its predecessor) calendars!
 
@@ -19,7 +19,7 @@ N-Darcale will bring such delights as Lazy Day, We Come in Peace and Won't Rape 
 Enjoy your new found holidays, coded here first, at Phobos Technologies LLC :)
 
 
-##Basic usage is as follows##
+## Basic usage is as follows
 
   ```php
   /* $calendar can be either 'dnarcale' (the opposite calendar) or 'radnelac' (the reversed calendar) */
